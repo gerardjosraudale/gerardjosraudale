@@ -1,23 +1,57 @@
-# <Josue Raudales>
+# Hello, GitHub! 👋
 
-Hello, GitHub! 👋
+I'm **Josue Raudales**, a Software Engineering student at **Brigham Young University–Idaho** passionate about **web development, data science, and software engineering**.  
 
-I'm Josue Raudales, a student at Brigham Young University-Idaho interested in computer science, data science, web development, software engineering, machine learning, and more. Welcome to my GitHub profile!
+🌱 Currently learning **Data Structures & Algorithms**  
+🎯 Goal: Become a well-rounded software engineer with strong technical and soft skills  
+💡 Ask me about my projects — I love building apps that solve real problems!  
 
-## I am a student
+---
 
-- I'm currently learning Data structures
-- My goal is to become a great software engineer and soft skills
-- Ask me about my projects
+## 🛠️ Technologies & Tools
 
-## Technologies and Tools
+- **Languages:** Python, C++, JavaScript, Java  
+- **Web Development:** React, Node.js, Express, HTML, CSS  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Other Tools:** Git, GitHub, Docker, VS Code  
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+---
 
-## Let's Connect!
+## 🚀 Projects
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/josue-raudales-6a3080173/) profile
+- [**Smart Budget Cooking Assistant**](https://github.com/your-repo)  
+  A web app that recommends budget-friendly recipes, tracks shopping lists, and integrates with Firebase.  
 
+- [**Bank Account System (C++)**](https://github.com/your-repo)  
+  A C++ console app simulating account management using OOP and STL.  
 
-Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
+- [**Pomodoro Timer (Flutter)**](https://github.com/your-repo)  
+  A productivity timer app with custom work/break durations and session tracking.  
+
+---
+
+## 📊 GitHub Stats
+
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardjosraudale&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardjosraudale&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌟 About Me
+
+- 📚 Final year Software Engineering student  
+- 👨‍👩‍👧 Proud husband and dad  
+- ⛺ I love camping, cooking, and spending time with family  
+- ⚽ Big fan of soccer!  
+
+---
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/josue-raudales-6a3080173/)  
+- [Portfolio Website](https://your-portfolio-link.com) *(coming soon 🚧)*  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!* 🚀
