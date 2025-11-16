@@ -1,10 +1,10 @@
-# Hello, GitHub! 👋
+# Hello,
 
 I'm **Josue Raudales**, a Software Engineering student at **Brigham Young University–Idaho** passionate about **web development, data science, and software engineering**.  
 
-🌱 Currently learning **Data Structures & Algorithms**  
-🎯 Goal: Become a well-rounded software engineer with strong technical and soft skills  
-💡 Ask me about my projects — I love building apps that solve real problems!  
+ Currently learning **Data Structures & Algorithms**  
+ Goal: Become a well-rounded software engineer with strong technical and soft skills  
+ Ask me about my projects — I love building apps that solve real problems!  
 
 ---
 
@@ -17,7 +17,7 @@ I'm **Josue Raudales**, a Software Engineering student at **Brigham Young Univer
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - [**Smart Budget Cooking Assistant**](https://github.com/your-repo)  
   A web app that recommends budget-friendly recipes, tracks shopping lists, and integrates with Firebase.  
@@ -38,20 +38,20 @@ I'm **Josue Raudales**, a Software Engineering student at **Brigham Young Univer
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 📚 Final year Software Engineering student  
-- 👨‍👩‍👧 Proud husband and dad  
-- ⛺ I love camping, cooking, and spending time with family  
-- ⚽ Big fan of soccer!  
+-  Final year Software Engineering student  
+-  Proud husband and dad  
+-  I love camping, cooking, and spending time with family  
+-  Big fan of soccer!  
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/josue-raudales-6a3080173/)  
 - [Portfolio Website](https://your-portfolio-link.com) *(coming soon 🚧)*  
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!* 🚀
+ *Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out. Happy coding!* 
